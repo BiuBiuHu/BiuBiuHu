@@ -32,7 +32,7 @@ Java / Go · React 前端 · TypeScript / Node · Astro / Shell.
 
 - **[opc-skills](https://github.com/BiuBiuHu/opc-skills)** — Codex Skill，把 C 端应用和配套 B 端工作台的澄清、PRD、实现、测试、发布串成可审查流程。 / Codex Skill: reviewable clarify → PRD → impl → test → release for C-side apps + B-side workbenches.
 - **[AnPai.life](https://www.anpai.life)** — 任务 + 日历 + AI 规划，一个人走完整条软件生产链的实践场。 / Tasks + calendar + AI planning — a one-person full-delivery practice ground.
-- 在 [peak-lake.com/blog](https://www.peak-lake.com/blog) 写 Agent 记忆、意图识别、出口校验，以及 OPC 式研发。 / Writing on agent memory, intent, exit validation, and OPC-style delivery.
+- **[peak-lake.com](https://www.peak-lake.com)** — 记录研究过程，综合展示个人产品。 / Records the research process and showcases personal products in one place.
 
 ## 🚀 Featured
 
