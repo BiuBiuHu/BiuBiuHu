@@ -18,10 +18,15 @@
 
 ## 👤 关于 / About
 
-- **技术栈 / Stack**：Astro · TypeScript · JavaScript · React · Node.js · Java · Go · Shell — 公开仓库多是站点、Skills 和 CLI；工作里也会用 Java / Go / React 及相关前端。 / Public repos: sites, Skills, CLIs; at work also Java / Go / React and related frontend.
-- **能做 / Can do**：Codex / Claude Code 走完 C 端应用 + B 端工作台（澄清 → 发布）；个人产品 0→1（[AnPai.life](https://www.anpai.life)、[peak-lake](https://www.peak-lake.com)）；给 Agent 接中转、密钥、限流和日志。 / End-to-end C-side + B-side workbench delivery; ship personal products 0→1; Agent gateway, keys, rate limits, logs.
-- **擅长 / Good at**：把 Agent + Skills 收成可审查的研发流程；C/B 一起交付；工具链 / CLI。 / Reviewable Agent + Skills pipelines; C-side + B-side together; toolchains / CLIs.
-- **业余 / Hobby**：游泳 / swimming.
+从支付与信贷的工程纪律里出来，把同样的边界感带到 Agent：流程可审查，交付能上线。  
+From payments and credit engineering — same boundaries, now on agents: reviewable process, shippable delivery.
+
+金融支付老兵 · Agent 工程师 · 全栈（干）工程师。  
+Payments veteran · agent engineer · full-stack who actually ships.
+
+Java / Go · React 前端 · TypeScript / Node · Astro / Shell.
+
+业余游泳。 / Swims for fun.
 
 ## 🔭 Now
 
