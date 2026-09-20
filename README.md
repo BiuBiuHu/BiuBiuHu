@@ -1,6 +1,7 @@
 # Hi, I'm BiuBiu_Hu 👋
 
 📍 **深圳** | 🧑‍💻 **独立开发 / OPC** | 🤖 **Agent + Skills**
+🏢 曾任职 **阿里巴巴** · **蚂蚁国际**
 
 ![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
