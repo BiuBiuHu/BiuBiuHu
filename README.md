@@ -1,7 +1,7 @@
 # Hi, I'm BiuBiu_Hu 👋
 
-📍 **深圳** | 🤖 **Agent + Skills**
-🏢 **阿里巴巴** · **蚂蚁国际**
+📍 **深圳 / Shenzhen** | 🤖 **Agent + Skills**
+🏢 **阿里巴巴 · 蚂蚁国际 / Alibaba · Ant International**
 
 ![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -13,32 +13,34 @@
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 > 一个人把产品做完：用 Agent 和 Skills 走完需求、设计、实现、测试、发布，再写下哪里会断。
+>
+> Ship as one person: Agent + Skills through spec, design, impl, test, release — then write down what breaks.
 
-## 👤 关于
+## 👤 关于 / About
 
-- **技术栈**：Astro · TypeScript · JavaScript · React · Node.js · Java · Go · Shell。公开仓库多是站点、Skills 和 CLI；工作里也会用 Java / Go / React 及相关前端。
-- **能做**：用 Codex / Claude Code 把 C 端应用和配套 B 端工作台从澄清、PRD 做到实现、测试和发布；个人产品从 0 到 1 上线（[AnPai.life](https://www.anpai.life)、[peak-lake](https://www.peak-lake.com)）；给 Agent 接中转、密钥、限流和日志。
-- **擅长**：把 Agent + Skills 收成可审查的研发流程；C 端应用和 B 端工作台一起交付；用工具链 / CLI 把重复步骤收成可跑的路径。
-- **业余**：游泳。
+- **技术栈 / Stack**：Astro · TypeScript · JavaScript · React · Node.js · Java · Go · Shell — 公开仓库多是站点、Skills 和 CLI；工作里也会用 Java / Go / React 及相关前端。 / Public repos: sites, Skills, CLIs; at work also Java / Go / React and related frontend.
+- **能做 / Can do**：Codex / Claude Code 走完 C 端应用 + B 端工作台（澄清 → 发布）；个人产品 0→1（[AnPai.life](https://www.anpai.life)、[peak-lake](https://www.peak-lake.com)）；给 Agent 接中转、密钥、限流和日志。 / End-to-end C-side + B-side workbench delivery; ship personal products 0→1; Agent gateway, keys, rate limits, logs.
+- **擅长 / Good at**：把 Agent + Skills 收成可审查的研发流程；C/B 一起交付；工具链 / CLI。 / Reviewable Agent + Skills pipelines; C-side + B-side together; toolchains / CLIs.
+- **业余 / Hobby**：游泳 / swimming.
 
 ## 🔭 Now
 
-- **[opc-skills](https://github.com/BiuBiuHu/opc-skills)** — Codex Skill，把 C 端应用和配套 B 端工作台的澄清、PRD、实现、测试、发布串成可审查流程。
-- **[AnPai.life](https://www.anpai.life)** — 任务 + 日历 + AI 规划，一个人走完整条软件生产链的实践场。
-- 在 [peak-lake.com/blog](https://www.peak-lake.com/blog) 写 Agent 记忆、意图识别、出口校验，以及 OPC 式研发。
+- **[opc-skills](https://github.com/BiuBiuHu/opc-skills)** — Codex Skill，把 C 端应用和配套 B 端工作台的澄清、PRD、实现、测试、发布串成可审查流程。 / Codex Skill: reviewable clarify → PRD → impl → test → release for C-side apps + B-side workbenches.
+- **[AnPai.life](https://www.anpai.life)** — 任务 + 日历 + AI 规划，一个人走完整条软件生产链的实践场。 / Tasks + calendar + AI planning — a one-person full-delivery practice ground.
+- 在 [peak-lake.com/blog](https://www.peak-lake.com/blog) 写 Agent 记忆、意图识别、出口校验，以及 OPC 式研发。 / Writing on agent memory, intent, exit validation, and OPC-style delivery.
 
 ## 🚀 Featured
 
-| Project | What it is |
-|---------|------------|
-| [opc-skills](https://github.com/BiuBiuHu/opc-skills) | Codex Skill：C 端业务 + B 端工作台的交付流水线。目标澄清 → PRD → UI → 架构 → 实现 → 测试 → 联调 → 发布评审。MIT |
-| [one-pc-site](https://github.com/BiuBiuHu/one-pc-site) | 个人站（Astro）：博客、开源项目与服务，中英双语。[peak-lake.com](https://www.peak-lake.com) |
-| [AnPai.life](https://www.anpai.life) | 任务 + 日历 + AI 规划，PC 与客户端同步。[发布仓库](https://github.com/BiuBiuHu/anpai-releases) |
-| [api-set](https://github.com/BiuBiuHu/api-set) | 一键给 Claude Code / Codex 接入 [apistation](https://apistation.cn) 中转：密钥、限流、日志集中治理 |
+| Project | 简介 / What it is |
+|---------|-------------------|
+| [opc-skills](https://github.com/BiuBiuHu/opc-skills) | Codex Skill：C 端业务 + B 端工作台的交付流水线。目标澄清 → PRD → UI → 架构 → 实现 → 测试 → 联调 → 发布评审。MIT<br>Codex Skill: C-side + B-side workbench pipeline. Clarify → PRD → UI → architecture → impl → test → integrate → release review. MIT |
+| [one-pc-site](https://github.com/BiuBiuHu/one-pc-site) | 个人站（Astro）：博客、开源项目与服务，中英双语。[peak-lake.com](https://www.peak-lake.com)<br>Personal site (Astro): blog, open source, and services. Bilingual ZH/EN. |
+| [AnPai.life](https://www.anpai.life) | 任务 + 日历 + AI 规划，PC 与客户端同步。[发布仓库](https://github.com/BiuBiuHu/anpai-releases)<br>Tasks + calendar + AI planning, synced across PC and clients. [Releases](https://github.com/BiuBiuHu/anpai-releases) |
+| [api-set](https://github.com/BiuBiuHu/api-set) | 一键给 Claude Code / Codex 接入 [apistation](https://apistation.cn) 中转：密钥、限流、日志集中治理<br>One-shot Claude Code / Codex hookup to [apistation](https://apistation.cn): keys, rate limits, centralized logs |
 
 ## 🛠️ Other
 
-同一条线上的工具：[ai-workflow-kit](https://github.com/BiuBiuHu/ai-workflow-kit)（AI 研发流程模板）、[claude-no-approve-bash](https://github.com/BiuBiuHu/claude-no-approve-bash)（Claude Code Skill：复杂 bash 少打断）、[autossh-multi-server](https://github.com/BiuBiuHu/autossh-multi-server)（多服务器 SSH 隧道）、[cpdev](https://github.com/BiuBiuHu/cpdev)（git worktree + Claude 并行开发）。
+同一条线上的工具 / Same line of tools：[ai-workflow-kit](https://github.com/BiuBiuHu/ai-workflow-kit)（AI 研发流程模板 / AI delivery templates）、[claude-no-approve-bash](https://github.com/BiuBiuHu/claude-no-approve-bash)（Claude Code Skill：复杂 bash 少打断 / fewer bash-approval interrupts）、[autossh-multi-server](https://github.com/BiuBiuHu/autossh-multi-server)（多服务器 SSH 隧道 / multi-server SSH tunnels）、[cpdev](https://github.com/BiuBiuHu/cpdev)（git worktree + Claude 并行开发 / git worktrees + parallel Claude）。
 
 ## ✍️ Latest posts
 
@@ -52,7 +54,7 @@ More on [peak-lake.com/blog](https://www.peak-lake.com/blog) · [RSS](https://ww
 
 ## 📖 Reading
 
-开源书稿（fork，阅读副本）：[深入理解 AI Agent](https://github.com/BiuBiuHu/ai-agent-book) · [深入理解 AI Infra](https://github.com/BiuBiuHu/ai-infra-book)
+开源书稿（fork，阅读副本）/ Open-source manuscripts (forks, reading copies)：[深入理解 AI Agent](https://github.com/BiuBiuHu/ai-agent-book) · [深入理解 AI Infra](https://github.com/BiuBiuHu/ai-infra-book)
 
 ## Connect
 
@@ -63,6 +65,6 @@ More on [peak-lake.com/blog](https://www.peak-lake.com/blog) · [RSS](https://ww
 
 ---
 
-*"把想法做成产品，把经验写成文字。"*
+*"把想法做成产品，把经验写成文字。 / Ship the idea; write down the work."*
 
 <!-- Profile README -->
