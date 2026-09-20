@@ -5,10 +5,21 @@
 
 ![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 > 一个人把产品做完：用 Agent 和 Skills 走完需求、设计、实现、测试、发布，再写下哪里会断。
+
+## 👤 关于
+
+- **技术栈**：Astro · TypeScript · JavaScript · React · Node.js · Java · Go · Shell。公开仓库多是站点、Skills 和 CLI；工作里也会用 Java / Go / React 及相关前端。
+- **能做**：用 Codex / Claude Code 把 C 端应用和配套 B 端工作台从澄清、PRD 做到实现、测试和发布；个人产品从 0 到 1 上线（[AnPai.life](https://www.anpai.life)、[peak-lake](https://www.peak-lake.com)）；给 Agent 接中转、密钥、限流和日志。
+- **擅长**：把 Agent + Skills 收成可审查的研发流程；C 端应用和 B 端工作台一起交付；用工具链 / CLI 把重复步骤收成可跑的路径。
+- **业余**：游泳。
 
 ## 🔭 Now
 
